@@ -1,0 +1,65 @@
+nav ul li a{ 
+    font-weight: bold;
+    color: white !important;
+    font-size: 20px;
+    font-family: verdana;
+    text-transform: uppercase;
+}
+
+nav ul {
+    margin-right: 100px;
+}
+
+nav ul li {
+    margin-left: 10px;
+}
+
+.carousel {
+    margin-top: 50px;
+}
+
+section#about {
+    margin-bottom: 50px;
+}
+
+section#about h2 {
+    margin-top: 100px;
+    text-align: center;
+}
+
+section.isiabout{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+section#about p {
+    margin-top: 30px;
+    width: 80%;
+}
+
+section#product h2 {
+    margin-top: 100px;
+    text-align: center;
+}
+
+section#product .card {
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+section#visimisi h2 {
+   margin-left:50px;
+    text-align: left;
+}
+
+footer#contact {
+    margin-left: 80px;
+    margin-bottom: 120px;
+    margin-top: 90px;
+}
+
+li a:hover{
+    background-color: maroon;
+}
+
